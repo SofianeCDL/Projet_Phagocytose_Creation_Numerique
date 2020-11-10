@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Distanciel_Creation_Numerique:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Distanciel_Creation_Numerique_jar</output-path>
+    <root id="archive" name="Distanciel_Creation_Numerique.jar">
+      <element id="module-output" name="Distanciel_Creation_Numerique" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Processing/processing-3.5.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
